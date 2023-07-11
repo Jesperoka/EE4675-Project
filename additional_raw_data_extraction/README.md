@@ -1,0 +1,1 @@
+Data containing walking and falling and data containing walking and standing can be extracted with the scripts in the folders.
